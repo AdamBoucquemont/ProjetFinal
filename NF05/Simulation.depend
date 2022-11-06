@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609742820 source:c:\users\adamb\desktop\utt\tc03\nf05\tout le projet final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
